@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 const crayon=require("crayon-terminal")
 	,crypto=require("crypto")
 
