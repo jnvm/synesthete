@@ -31,6 +31,7 @@ Setting salt:
 `> export SYNESTHETE=1234 # but it could be anything, try a few`
 
 Then color mapping is different:
+
 ![different colors](https://cldup.com/YlWiwbFqTx.PNG)
 
 Should work on any text:
