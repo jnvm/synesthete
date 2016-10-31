@@ -4,7 +4,7 @@
   },
   "name": "synesthete",
   "description": "Deterministically colorize cli words. Words are considered nonspace clumps.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "cli.js",
   "devDependencies": {},
   "scripts": {
