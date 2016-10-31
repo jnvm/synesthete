@@ -22,9 +22,9 @@ Regular usage:
 
 ![example of cli text colored](https://cldup.com/sJzfLzGmRo.PNG)
 
-But that's a lot to type, let's alias it to cc:
+But that's a lot to type, let's alias it to sy:
 
-`> alias cc='synesthete'`
+`> alias sy=synesthete`
 
 Setting salt:
 
@@ -32,7 +32,7 @@ Setting salt:
 
 Then color mapping is different:
 
-![different colors](https://cldup.com/YlWiwbFqTx.PNG)
+![different colors](https://cldup.com/FaFDskJeOZ.PNG)
 
 Should work on any text:
 
