@@ -10,6 +10,9 @@
   "scripts": {
     "test": "echo \"You pass butter\" | synesthete"
   },
+  "bin": {
+    "synesthete": "cli.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jnvm/synesthete.git"
