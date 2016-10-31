@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "crayon-terminal": "^3.0.1"
+  },
+  "name": "synesthete",
+  "description": "Deterministically colorize cli words. Words are considered nonspace clumps.",
+  "version": "1.0.0",
+  "main": "cli.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"You pass butter\" | synesthete"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnvm/synesthete.git"
+  },
+  "keywords": [
+    "cli",
+    "color",
+    "ansi-color",
+    "synesthesia",
+    "synesthete",
+    "command-line",
+    "commandline",
+    "command",
+    "pretty",
+    "tool",
+    "util"
+  ],
+  "author": "jnvm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jnvm/synesthete/issues"
+  },
+  "homepage": "https://github.com/jnvm/synesthete#readme"
+}
