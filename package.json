@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "crayon-terminal": "^3.0.1"
+    "crayon-terminal": "^3.0.1",
+    "minimist": "^1.2.0",
+    "tinycolor2": "^1.4.1"
   },
   "name": "synesthete",
-  "description": "Deterministically colorize cli words. Words are considered nonspace clumps.",
-  "version": "1.0.3",
+  "description": "Deterministically colorize cli words or regex patterns",
+  "version": "1.1.0",
   "main": "cli.js",
   "devDependencies": {},
   "scripts": {
@@ -20,6 +22,7 @@
   "keywords": [
     "cli",
     "color",
+    "colorize",
     "ansi-color",
     "synesthesia",
     "synesthete",
@@ -28,7 +31,11 @@
     "command",
     "pretty",
     "tool",
-    "util"
+    "util",
+    "style",
+    "styling",
+    "rainbow",
+    "stream"
   ],
   "author": "jnvm",
   "license": "MIT",
