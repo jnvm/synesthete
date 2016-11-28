@@ -68,7 +68,7 @@ var data=''
 if(process.stdin.isTTY || args.help){
 	var flags=Object.keys(opts)
 		,longest=Math.max(...flags.map(x=>x.length))
-		,json=JSON.parse(require("fs").readFileSync("package.json"))
+		,json=JSON.parse(require("fs").readFileSync(__dirname+"/package.json"))
 	console.log([
 		 `\n${crayon.underline("DESCRIPTION")}: ${colorize(json.description)}`
 		,`${crayon.underline("USAGE")}: ${colorize('pipe text to it, like this:')}`
